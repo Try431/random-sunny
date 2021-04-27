@@ -1,0 +1,5 @@
+*.mkv
+*.mp4
+venv
+__pycache__
+.vscode
